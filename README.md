@@ -1,2 +1,2 @@
 # Python_ObjDtct_CNN-Squeezenet
-This repository explores rice leaf disease classification using SqueezeNet, a lightweight deep learning model. The project was trained on a large dataset to evaluate how well a compact architecture can handle complex image classification tasks. Due to the model’s limited capacity, the results were sub-optimal, with accuracy falling below 50%.
+This repository explores rice leaf disease classification using SqueezeNet, a lightweight deep learning model. The project was trained on a large dataset to evaluate how well a compact architecture can handle complex image classification tasks. Due to the model’s limited capacity, the results were sub-optimal, with accuracy falling below 50%. This is 2023 Project
